@@ -38,7 +38,7 @@ function setup()
     m.material = craft.material("Materials:Basic")
     m.material.blendMode = NORMAL
     m.material.map = img  
-    local r = color(255,0,0,200)
+    local r = color(137, 255, 0, 200)
     --m.model.colors = {r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r}
 
     uvs1={}
